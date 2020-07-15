@@ -1,3 +1,5 @@
 # Tic-Tac-Toe
-A tic-tac-toe game using C++
+A simple text based Tic-Tac-Toe game using C++.
+
 Recommended to run using code blocks.
+
